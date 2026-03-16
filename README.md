@@ -42,12 +42,19 @@ The following visualizations were created to analyze business performance:
 ## Project Structure
 FUTURE_DS_01
 │
-├── online_retail.csv
-├── sales_analysis.html
-├── revenue_trend.jpeg
-├── top_products.jpeg
-├── top_countries.jpeg
-└── top_quantity_products.jpeg
+├── data
+│   └── online_retail.csv
+│
+├── notebooks
+│   └── sales_analysis.html
+│
+├── visuals
+│   ├── revenue_trend.jpeg
+│   ├── top_products.jpeg
+│   ├── top_countries.jpeg
+│   └── top_quantity_products.jpeg
+│
+└── README.md
 
 ## Conclusion
 This analysis demonstrates how data analystics can help businesses identify growth opportunities, optimize product offerings, and better understand customer demand.
